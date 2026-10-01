@@ -1,0 +1,6 @@
+# VEX build outputs
+build/
+bin/
+
+# VS Code or environment specifics
+.vscode/

@@ -1,0 +1,4 @@
+Connecting a button to an event:
+- after adding controller device
+  if controller_1.buttonUp.pressing():
+    brain.screen.print("VEXcode")

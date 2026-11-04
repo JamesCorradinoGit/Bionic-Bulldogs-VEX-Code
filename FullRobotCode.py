@@ -1,3 +1,5 @@
+#Make sure to connect all ports as they are on other function programs ****
+
 #region VEXcode Generated Robot Configuration
 from vex import *
 import urandom
